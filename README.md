@@ -4,7 +4,7 @@ A solution to the complex problems that I have solved in coding competitions
 
 ## ZAMKA
 
-This is a problem I came across in the # UB Coding Connundrum
+This is a problem I came across in the UB Coding Connundrum
 
 Problem Description - 
 
