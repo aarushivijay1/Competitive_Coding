@@ -22,3 +22,7 @@ https://www.codechef.com/problems/HS08TEST
 ## CHEFCCYL
 
 https://www.codechef.com/OCT17/problems/CHEFCCYL
+
+## CHEFGP
+
+https://www.codechef.com/OCT17/problems/CHEFGP
