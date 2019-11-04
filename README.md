@@ -26,3 +26,8 @@ https://www.codechef.com/OCT17/problems/CHEFCCYL
 ## CHEF AND GREAT VOLUNTARY PRO
 
 https://www.codechef.com/OCT17/problems/CHEFGP
+
+## MAX MEX 
+
+https://www.codechef.com/OCT17/problems/MEX
+
