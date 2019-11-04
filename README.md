@@ -19,10 +19,10 @@ The impossible has happened. Bear G. has fallen into his own trap. Lured by a de
 
 https://www.codechef.com/problems/HS08TEST
 
-## CHEFCCYL
+## CHEF AND CYCLED CYLCES
 
 https://www.codechef.com/OCT17/problems/CHEFCCYL
 
-## CHEFGP
+## CHEF AND GREAT VOLUNTARY PRO
 
 https://www.codechef.com/OCT17/problems/CHEFGP
